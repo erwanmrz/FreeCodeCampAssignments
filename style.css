@@ -1,0 +1,77 @@
+body {
+  font-family:Tahoma;
+  background-color:green;
+}
+
+.box {
+  font-size:16px;
+  padding:30px;
+  background-color:white;
+  border-radius:1%;
+  margin-top:60px;
+}
+
+.title {
+  font-size:36px;
+}
+
+.author {
+  font-size:16px;
+  text-align:right;
+}
+
+.creator {
+  color:white;
+  margin-top:30px;
+}
+
+button {
+  color:white;
+}
+
+.btn-primary {
+  background-color:green;
+}
+
+.btn-primary:hover {
+  background-color:DarkGreen;
+}
+
+.btn-primary:active {
+  background-color:DarkGreen;
+}
+
+.btn-primary:visited {
+  background-color:green;
+}
+
+a:link{
+  color:white;
+  text-decoration:none;
+}
+
+a:visited {
+  color:white;
+  text-decoration:none;
+}
+
+a:hover {
+  color:white;
+  text-decoration:none;
+  
+}
+
+a:active {
+  color:white;
+  text-decoration:none;
+}
+
+#newQuote {
+  float:right;
+  font-size:16px;
+}
+
+#twitter {
+  float:left;
+  font-size:16px;
+}
